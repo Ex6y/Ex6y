@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Ex6y/Ex6y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¡Hola! 👋  
+*Soy Euxqi, Y bienvenido a mi perfil
 
-Here are some ideas to get you started:
+4 años programando,<br/>17 años;<br/>Nacionalidad: Dominican 🇩🇴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+> Vivo en Dominican Republic, Santo Domingo
+
+>Idioma Nativo: Español 🇪🇸 
+
+> Conozco 6 Codigos De Programación y web,  Y Hacking Ético
+
+> Java 🤖, Python 🐍, JavaScript (Web) 🗒️, HTML with CSS 📚,  C# and C++  👾
+
+}
+
+###Experiencias:
+<br/>MySQL<br/>Web Development<br/>Minecraft Modding/Development<br/>Ethical Hacking<br/>Diseñador Gráfico<br/>Artista De Efectos Visuales (VFX)<br/>3D Animation (Blender)
+
+<br/>
+
+Social Media's 😋
+
+Discord: euxqiz_<br/>Twitter: [@Euxqiii](https://twitter.com/EuriytM)<br/>Instagram: [euxqiz_](https://www.instagram.com/euxqiz_/)
