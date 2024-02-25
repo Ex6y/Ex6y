@@ -1,6 +1,6 @@
 
 ### ¡Hola! 👋  
-*Soy Euxqi, Y bienvenido a mi perfil
+*Soy Eury, Y bienvenido a mi perfil
 
 4 años programando,<br/>17 años;<br/>Nacionalidad: Dominican 🇩🇴
 
