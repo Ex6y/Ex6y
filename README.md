@@ -7,9 +7,8 @@
 {
 > Born In Dominican Republic, Santo Domingo
 
->Native Language: Español 🇪🇸
->English...
->Portugues...
+>Native Language: Español 🇪🇸 <br>English...</br><br>Portugues...</br>
+
 
 > I Know 6 Coding Programming Languague, Web, And Basic CyberSecurity
 
