@@ -1,6 +1,6 @@
 
-### ¡Hola, Hi, Bonjour, Olá👋  
-*Im Eury, Welcome To My Presentation!
+### ¡Hola, Hi, Bonjour, Olá!👋  
+*Im Eury, Welcome To My Presentation!*
 
 5 Years Programming Experiencie, 6 Years Experience Editing Videos,<br/>18 Years Old;<br/>Nationality: Dominican 🇩🇴
 
