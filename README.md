@@ -1,22 +1,24 @@
 
-### ¡Hola! 👋  
-*Soy Eury, Y bienvenido a mi perfil
+### ¡Hola, Hi, Bonjour, Olá👋  
+*Im Eury, Welcome To My Presentation!
 
-5 Years Programming Experiencie, 6 Years Experience Editing Videos,<br/>17 años;<br/>Nacionalidad: Dominican 🇩🇴
+5 Years Programming Experiencie, 6 Years Experience Editing Videos,<br/>18 Years Old;<br/>Nationality: Dominican 🇩🇴
 
 {
-> Vivo en Dominican Republic, Santo Domingo
+> Born In Dominican Republic, Santo Domingo
 
->Idioma Nativo: Español 🇪🇸 
+>Native Language: Español 🇪🇸
+>English...
+>Portugues...
 
-> Conozco 6 Codigos De Programación y web,  Y Hacking Ético
+> I Know 6 Coding Programming Languague, Web, And Basic CyberSecurity
 
 > Java 🤖, Python 🐍, JavaScript (Web) 🗒️, HTML with CSS 📚,  C# and C++  👾
 
 }
 
-### Experiencias:
-<br/>MySQL<br/>Web Development<br/>Minecraft Modding/Development<br/>Ethical Hacking<br/>Diseñador Gráfico<br/>Artista De Efectos Visuales (VFX)<br/>3D Animation (Blender)
+### Experiencies:
+<br/>MySQL<br/>Web Development<br/>Discord Development<br/>CyberSecurity<br/>Grafic Designer<br/> Visual Effects Artist (VFX)<br/>Computer Science and more...
 
 <br/>
 
