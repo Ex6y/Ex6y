@@ -2,7 +2,7 @@
 ### ¡Hola! 👋  
 *Soy Eury, Y bienvenido a mi perfil
 
-4 años programando,<br/>17 años;<br/>Nacionalidad: Dominican 🇩🇴
+5 Years Programming Experiencie, 6 Years Experience Editing Videos,<br/>17 años;<br/>Nacionalidad: Dominican 🇩🇴
 
 {
 > Vivo en Dominican Republic, Santo Domingo
@@ -15,7 +15,7 @@
 
 }
 
-###Experiencias:
+### Experiencias:
 <br/>MySQL<br/>Web Development<br/>Minecraft Modding/Development<br/>Ethical Hacking<br/>Diseñador Gráfico<br/>Artista De Efectos Visuales (VFX)<br/>3D Animation (Blender)
 
 <br/>
