@@ -23,4 +23,4 @@
 
 Social Media's 😋
 
-Discord: euxqiz_<br/>Twitter: [@Euxqiii](https://twitter.com/EuriytM)<br/>Instagram: [euxqiz_](https://www.instagram.com/euxqiz_/)
+Discord: euxqiz_<br/>Twitter: [@Euxqiii](https://twitter.com/EuriytM)<br/>Instagram: [euxqiz_](https://www.instagram.com/euxdalinux/)
